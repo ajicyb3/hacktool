@@ -17,9 +17,9 @@ pkg install w3m -y
 gem install lolcat
 
 #intro
-echo CREATED BY UBAII ID
+echo CREATED BY ajicyb3 
 echo //////////////////////////
-echo //        Ubaii ID//
+echo //        ajicyb3 ID//
 echo //   Indonesia poeple//
 echo //////////////////////////
 figlet Sukses | lolcat
