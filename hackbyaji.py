@@ -20,10 +20,10 @@ def info():
   print("\n[ OS: ]")
   os.system("uname -o")
   print(G+"""
-   XSHELL FRAMEWORK - CREATED BY UBAII ID
+   hacktool FRAMEWORK - CREATED BY ajictb3 ID
   (bantuan)Jika program ini bermasalah,harap 
 beri tau saya.
-kontak : fb.com/ubaii.id.9
+kontak : fb.com/ajicyb3.id.9
 Script ini boleh di edit/Recoded. asal intro jangan
 di ganti!! 
 Thanks : ALLAH SWT. Ubaii ID(author) Mas Mukti(mastah Termux) mas yugeng(Script editing) hery(Design Creator) Mas Yusril(Mastah Termux).""")
@@ -50,7 +50,7 @@ def tol():
 '''+E)
 
 	print(G+'''
-	BROWSER TOOL BY UBAII ID
+	BROWSER TOOL BY ajicyb3 ID
   	'''+F+'''
   	1) Browser dengan lynx
   	2) Browser dengan w3m
@@ -92,7 +92,7 @@ def dua():
      Ketik 'bantu' untuk panduan cara penggunaan.
 '''+E)
 	try:
-		g = input(G+'Xshell/brute-»')
+		g = input(G+'ajicyb3/brute-»')
 	except:
 		print(' Wakwau,:v ')
 		exit()
